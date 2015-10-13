@@ -5,7 +5,7 @@ import java.util.List;
 public class DemoApp {
     
     public static void main(String[] args){
-        // g an xxxxxxxxxxxxxxxxxxxinstance of the Model
+        // g an ================instance of the Model
         Model model = Model.getInstance();
         
         // now you have the instance of the model, get the data from the model. 
