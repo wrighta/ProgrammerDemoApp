@@ -1,5 +1,7 @@
 package com.example.app.model;
 
+// Remember the case study - we want to Create, Read, Update and Delete Programmers
+// so we have a programmer class. We will use this every time we need to handle a programmer object
 public class Programmer {
 
     private String name;
